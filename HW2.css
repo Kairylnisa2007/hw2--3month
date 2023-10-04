@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(236,179,54);
+    background: radial-gradient(circle, rgba(236,179,54,1) 83%, rgba(107,71,84,0.9950105042016807) 100%);
+    color: aliceblue;
+    text-align: center;
+    font-family: "Poppins", Arial;
+}
